@@ -10,6 +10,8 @@ const Navbar = () => {
   const navLinks = [
     { path: "/", label: "Home" },
     { path: "/products", label: "Products" },
+    { path: "/reviews", label: "Reviews" },
+    { path: "/comments", label: "Comments" },
     { path: "/about", label: "About Us" },
     { path: "/contact", label: "Contact Us" },
   ];
